@@ -8,6 +8,8 @@ public class SoloPractice3 {
 		
 		int a = 80;
 		int b = 90;
+		
+		int x = 5;
 	}
 
 }
